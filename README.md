@@ -1,8 +1,6 @@
 ## Hi — I'm Harir Hammadi 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/Harir99?label=Followers&style=flat-square)](https://github.com/Harir99)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harir99&layout=compact&hide=jupyter%20notebook)](https://github.com/Harir99)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harir99&show_icons=true)](https://github.com/Harir99)
 
 > Software engineer focused on full‑stack and cloud automation. Currently finishing a B.Comp. (Co-op) in Computer Science at the University of Guelph. I build reliable backend services, static and dynamic web apps, and automation tools that save time and reduce friction.
 
@@ -43,3 +41,9 @@
 - Email: harir.hammadi@gmail.com
 
 
+---
+
+If you'd like, I can:
+- convert this into a more visual README (emoji sections, a projects table, repo links)
+- add repository links under each featured project
+- generate a `RESUME.md` from `Harir_Resume.pdf` and include it in the repo
