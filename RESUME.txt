@@ -1,0 +1,69 @@
+Harir Hammadi
+ (647) 685-5053  harir.hammadi@gmail.com  github.com/Harir99  linkedin.com/in/harir-hammadi
+Technical Skills
+Programming Languages: Java, Python, JavaScript, TypeScript, C#, SQL, HTML/CSS, Bash, Kotlin
+Frameworks & Libraries: React, Node.js, Spring Boot, Hibernate, JSP , jQuery, Bootstrap, React Native, Unity
+Cloud & DevOps Tools: AWS, Azure, Docker, CI/CD Pipelines, NGINX, Apache, Power Automate
+Databases & Reporting: MySQL, PostgreSQL, MariaDB, SQLite, Firebase, Power BI
+Developer Tools: Eclipse, VS Code, Git, GitHub, GitLab, Gradle, Maven, Postman, JUnit
+Methodologies: Agile, REST APIs, MVC, Microservices, SDLC, Machine Learning, Project Development
+Soft Skills: Collaboration, Communication, Problem-Solving, Leadership, Time Management
+Work Experience
+RPA Developer & Trainer Intern, Mitacs – Toronto, ON Sep 2024 – Dec 2024
+• Automated the intern application system usingPower Automateand SQL, reducing processing time by70%.
+• Developed interactivePower BI dashboardsbacked bySQL, cutting report generation time fromhours to minutes.
+• Delivered technical training sessionsfor 10+ developers, improving workflow adoption and process efficiency.
+Software Developer/Consultant Intern, BDO – Toronto, ON May 2023 – Aug 2023
+• Developed client-facing apps usingPower Appsand Azure connectors, increasing workflow efficiency by20%.
+• Built interactivePower BI dashboardsaggregating financial data, enabling real-time insights for executive reporting.
+• Delivered hands-ontraining sessionsfor colleagues and clients, accelerating adoption of software solutions.
+• Implemented QA test casesand maintainedAgile documentationin Jira to ensure timely releases.
+Software Engineer Intern, TD Bank – Toronto, ON Jan 2023 – Apr 2023
+• Resolved defects inJava-based loan processing systems, reducing daily support tickets by20–50 calls.
+• Optimized SQL/HQL queriesand refactored backend services, improving systemstability and performance.
+• Collaborated withcross-functional teamsto deliver production-ready features in anAgile environment.
+Software Developer Intern, University of Guelph – Guelph, ON Sep 2021 – Dec 2021
+• Automated course infrastructure setup usingDocker and shell scriptsfor OOP instruction.
+• Developed Java teaching moduleswith JUnit tests, delivering10+ reusable learning resources.
+• Maintained technical documentation withGit and Apache Wiki, enhancing accessibility and knowledge sharing.
+Projects
+CarShop Management App| React, Node.js, TypeScript, Java, Spring Boot, SQL, AWS 2025
+• Developed a secure full-stack car inventory system usingJava, React, Spring Boot, TypeScript, andGradle.
+• Implemented JWT authenticationand role-based access control, strengthening platform security.
+• Built RESTful APIswith MariaDB to support CRUD operations, improving UI responsiveness by30%.
+• Containerized and deployed the app withDocker, AWS, andNetlify, cutting setup time by25% through automated
+builds and testing.
+Cloud VM Deployment Automation| Python, Azure, GCP 2024
+• Developed aPython automation toolto provision and configureAzure and GCP VMswith robust input validation.
+• Automated repeatable deployments, reducing setup time by40% and minimizing configuration errors.
+• Implemented structured loggingand rollback mechanisms, improvingreliability and debugging efficiency.
+1
+
+Course Scheduling Web App| React, Node.js, Python, Azure, Nginx 2023
+• Developed afull-stack scheduling systemusing React, Node.js, Python, andBootstrap to manage class conflicts
+and export calendars.
+• Implemented validation and caching, reducing scheduling errors by25% and improving user experience.
+• Deployed onAzure with NGINX and CI/CD pipelines, cutting post-release bugs by20% through automated testing.
+Education
+Bachelor of Computing (Co-op) in Computer Science, University of Guelph Sep 2019 – Jun 2025
+• 4.0 GPA
+• Relevant Courses:Data Structures, Algorithms, Cloud Computing, Mobile Computing, Operating Systems, AI/ML
+Training & Certification
+Professional & Career Development Record (PCDR), University of Guelph Jun 2025
+Hackathons
+Hack the Chain Hackathon, Major League Hacking 2025
+• Developed aJava-based beatbox applicationfeaturing a GUI built withSwing and MIDI sequencing.
+• Implemented real-timebeat generation, input handling, andtempo controlcomponents, gaining practical experi-
+ence inaudio programming.
+Local Hack Day Hackathon, University of Guelph 2019
+• Developed puzzle game softwarefor an LCD display usingArduino C++and aRaspberry Pi.
+• Implemented game logicand input handling, contributing to the team securing2nd place among university partici-
+pants.
+Extra-Curricular
+Society of Computing and Information Science (SOCIS), University of Guelph Sep 2019 – Apr 2025
+• Participated in hackathons and technical workshops, fostering collaboration among computing students.
+Guelph Women in Computer Science (GWICS), University of Guelph Sep 2019 – Apr 2025
+• Engaged in networking and mentorship events supporting diversity in computing.
+AIESEC, University of Guelph Sep 2019 – Apr 2025
+• Collaborated on international exchange initiatives, strengthening communication and leadership skills
+2
