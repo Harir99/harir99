@@ -38,14 +38,6 @@ If you'd like repo links added under other projects or a short demo GIF for any 
 
 ---
 
-📫 Contact & resume
-
-- Resume (PDF): [Harir_Resume.pdf](./Harir_Resume.pdf)
-- GitHub: https://github.com/Harir99
-- LinkedIn: https://linkedin.com/in/harir-hammadi
-- Email: harir.hammadi@gmail.com
-
-
 ### Experience (selected)
 - RPA Developer & Trainer Intern — Mitacs (Toronto) — automated workflows with Power Automate; built Power BI dashboards; delivered trainings
 - Software Developer/Consultant Intern — BDO (Toronto) — Power Apps, Azure connectors, Power BI dashboards, QA/test automation
