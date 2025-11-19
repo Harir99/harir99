@@ -46,14 +46,6 @@ If you'd like repo links added under other projects or a short demo GIF for any 
 - Email: harir.hammadi@gmail.com
 
 
----
-
-If you'd like, I can:
-- add demo GIFs and deploy badges for projects
-- automatically surface more repos and link them under projects
-- generate a `RESUME.md` from `RESUME.txt` and commit it to the repo
-
-
 ### Experience (selected)
 - RPA Developer & Trainer Intern — Mitacs (Toronto) — automated workflows with Power Automate; built Power BI dashboards; delivered trainings
 - Software Developer/Consultant Intern — BDO (Toronto) — Power Apps, Azure connectors, Power BI dashboards, QA/test automation
