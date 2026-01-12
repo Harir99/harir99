@@ -34,7 +34,6 @@
 | Course Scheduling Web App | Full‑stack scheduling app with validation, caching and CI/CD | React, Node.js, Python, NGINX | [Course-Scheduler](https://github.com/Harir99/Course-Scheduler)
 | Cloud VM Deployment Automation | Python automation tool to provision/configure cloud VMs | Python, Azure, GCP | (see resume / repo list) 
 AI Postcard Generator | AI-powered full-stack app that generates custom postcards from city names using edge-deployed image models with persistent object storage | React, TypeScript, Cloudflare Workers, Hono, Workers AI, Cloudflare R2, Cloudflare Pages  | [AI Postcard Generator](https://github.com/Harir99/Postcard_Generation_AI) 
-If you'd like repo links added under other projects or a short demo GIF for any project, I can add them.
 
 ---
 
